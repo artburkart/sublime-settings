@@ -1,0 +1,14 @@
+{
+  "draw_white_space": "all",
+  "font_size": 9,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": false,
+  "ensure_newline_at_eof_on_save": true,
+  "show_full_path": true
+}
